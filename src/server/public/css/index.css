@@ -1,0 +1,9 @@
+.arrowUp{
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+}
+
+/* nav li:last-child:after { /* covers the bottom of the navigation bar all the way to the right *
+    right: -9999999px;
+} */
